@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Android/KMP apps  
 - 🌱 I’m currently learning advanced Jetpack Compose UI  
 - 💬 Ask me about Android, Kotlin, Compose, and Clean Architecture  
-- 📫 How to reach me: ferdoushasan785@gmail.com or visit https://ferdoushasan-bindgq0z5-ferdoushasan69s-projects.vercel.app/
+- 📫 How to reach me: ferdoushasan785@gmail.com or visit https://ferdoushasan.vercel.app/
 
 
 ### ⚙️ Tech Stack
