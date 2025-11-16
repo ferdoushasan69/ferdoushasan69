@@ -10,7 +10,7 @@
 ### ⚙️ Tech Stack
 - **Languages:** Kotlin, Java, HTML, CSS, JavaScript  
 - **Architecture:** MVVM / MVI / Clean Architecture  
-- **Android:** Jetpack Compose, Material 3, Room, SqLite,WebSocket,Retrofit, WorkManager  
+- **Android:** Jetpack Compose, Material 3, Room, SqLite,WebSocket,Retrofit,Ktor-Client, WorkManager  
 - **DI & Tools:** Hilt, Koin, Coroutines, Flow  
 - **Testing:** JUnit, Espresso  
 - **Other:** Firebase, GitHub Actions, CI/CD, KMP  
